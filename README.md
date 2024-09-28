@@ -1,4 +1,4 @@
-[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Poppins&color=%2336BCF7&lines=Hello+I'm+Daniel+Xiquin;Welcome+to+my+Github+profile)](https://git.io/typing-svg)
+[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Jacquarda+Bastarda+9&color=%2336BCF7&lines=Hello+I'm+Daniel+Xiquin;Welcome+to+my+Github+profile)](https://git.io/typing-svg)
 
 
 <!--
