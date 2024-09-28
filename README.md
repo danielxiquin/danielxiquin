@@ -1,5 +1,5 @@
-[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%230022A5&lines=Welcome+to+my+Github+profile)](https://git.io/typing-svg)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%230022A5&lines=Welcome+to+my+Github+profile)](https://git.io/typing-svg)
 
 <!--
 **danielxiquin/danielxiquin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
